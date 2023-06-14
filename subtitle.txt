@@ -1,0 +1,7 @@
+Welcome to this course
+on Advanced TensorFlow. Over the next few weeks, you will explore scenarios
+where you can go beyond basic Keras layer definition
+for the creation of ML models by exploring
+custom loss functions, callbacks, layers and models. But to begin it all off, you'll look at a new way
+of coding your layers. It's called the functional API and you can see it
+in the next video.
